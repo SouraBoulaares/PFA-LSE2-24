@@ -10,7 +10,7 @@
 
 ---
 # Complete Guide of the markdown file ( .md) 
-* [Link with more info with various formatting options](https://docs.github.com/en/github/writing-on-github "more info")*
+* [Link with more info with various formatting options](https://docs.github.com/en/github/writing-on-github "more info")
 ---
 
 ## 📋 Project Overview
