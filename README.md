@@ -9,6 +9,9 @@
 - **Technical Writer** 📝: Creates and maintains documentation for the project, including user manuals and technical specifications.
 
 ---
+# Complete Guide of the markdown file ( .md) 
+* [Link with more info with various formatting options](https://docs.github.com/en/github/writing-on-github "more info")*
+---
 
 ## 📋 Project Overview
 This project is designed to [describe the project objective here]. The goal is to create a software solution that addresses [specific problem or need]. This project will utilize **Java** and **Object-Oriented Programming (OOP)** principles to ensure scalability, maintainability, and clean design.
